@@ -1,7 +1,7 @@
 ---
-title: The Adventure of the Priory School
-author: Arthur Conan Doyle
-category: literature
+title: Ein Beispieltext
+author: Chajm Guski
+category: literatur
 layout: post
 ---
 
