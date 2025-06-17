@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Die Abenteuer"
-author: "Arthur Conan Doyle"
+author: "Chajm Guski"
 categories: literature
 ---
 
